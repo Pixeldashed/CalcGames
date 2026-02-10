@@ -1,0 +1,37 @@
+{
+  "https://smashkarts.io/": {
+    "name_of_link": "SmashKarts",
+    "hidden": false,
+    "prox": false
+  },
+  "https://fake.bayworld.net/": {
+    "name_of_link": "Intersteller 1",
+    "hidden": false,
+    "prox": true
+  },
+  "https://grandemass.goodfox.com.br/": {
+    "name_of_link": "Intersteller 2",
+    "hidden": false,
+    "prox": true
+  },
+  "https://interstellar.sevecom.com/": {
+    "name_of_link": "Intersteller 3",
+    "hidden": false,
+    "prox": true
+  },
+  "https://smash-karts.gitlab.io/#": {
+    "name_of_link": "Smash Karts 2",
+    "hidden": false,
+    "prox": false
+  },
+  "https://skunblocked.com/": {
+    "name_of_link": "Smash karts 3",
+    "hidden": false,
+    "prox": false
+  },
+  "https://forms.gle/hvCfRbhK2nvtQfv56": {
+    "name_of_link": "Game Suggestion Form",
+    "hidden": false,
+    "prox": false
+  }
+}
