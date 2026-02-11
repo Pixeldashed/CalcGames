@@ -29,6 +29,26 @@
     "hidden": false,
     "prox": false
   },
+  "https://duck.tinyexams.com/class/smash-karts": {
+    "name_of_link": "Smash karts 4 (tiny duck)",
+    "hidden": false,
+    "prox": false
+  },
+  "https://smashkarts.bitbucket.io/": {
+    "name_of_link": "Smash karts 5 (bit bucket)",
+    "hidden": false,
+    "prox": false
+  },
+  "https://watchdocumentaries.com/smash-karts-game/": {
+    "name_of_link": "Smash karts 6",
+    "hidden": false,
+    "prox": false
+  },
+  "https://google.com/": {
+    "name_of_link": "Google",
+    "hidden": false,
+    "prox": false
+  },
   "https://forms.gle/hvCfRbhK2nvtQfv56": {
     "name_of_link": "Game Suggestion Form",
     "hidden": false,
