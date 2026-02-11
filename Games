@@ -1,9 +1,4 @@
 {
-  "https://smashkarts.io/": {
-    "name_of_link": "SmashKarts",
-    "hidden": false,
-    "prox": false
-  },
   "https://fake.bayworld.net/": {
     "name_of_link": "Intersteller 1",
     "hidden": false,
@@ -19,33 +14,23 @@
     "hidden": false,
     "prox": true
   },
-  "https://smash-karts.gitlab.io/#": {
-    "name_of_link": "Smash Karts 2",
+  "https://db.duck.tinyexams.com/html/smash_karts/": {
+    "name_of_link": "Smash karts 1 (tiny duck)",
     "hidden": false,
     "prox": false
   },
-  "https://skunblocked.com/": {
+  "https://webgltest-17af1.firebaseapp.com/": {
+    "name_of_link": "Smash karts 2 (bit bucket)",
+    "hidden": false,
+    "prox": false
+  },
+  "https://ozgames.io/smash-karts.embed": {
     "name_of_link": "Smash karts 3",
     "hidden": false,
     "prox": false
   },
-  "https://duck.tinyexams.com/class/smash-karts": {
-    "name_of_link": "Smash karts 4 (tiny duck)",
-    "hidden": false,
-    "prox": false
-  },
-  "https://smashkarts.bitbucket.io/": {
-    "name_of_link": "Smash karts 5 (bit bucket)",
-    "hidden": false,
-    "prox": false
-  },
-  "https://watchdocumentaries.com/smash-karts-game/": {
-    "name_of_link": "Smash karts 6",
-    "hidden": false,
-    "prox": false
-  },
-  "https://google.com/": {
-    "name_of_link": "Google",
+  "https://duckduckgo.com/": {
+    "name_of_link": "DuckDuckGo (offbrand google)",
     "hidden": false,
     "prox": false
   },
