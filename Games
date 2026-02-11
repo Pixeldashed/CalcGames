@@ -29,8 +29,13 @@
     "hidden": false,
     "prox": false
   },
-  "https://duckduckgo.com/": {
-    "name_of_link": "DuckDuckGo (offbrand google)",
+  "https://yoplay.io/smash-karts.embed": {
+    "name_of_link": "Smash karts 4",
+    "hidden": false,
+    "prox": false
+  },
+  "https://script.google.com/macros/s/AKfycbyE1C_kxeomVoOLjpaXc2uAI7JdNgVhdQdePTZu9Sizwzj_imhaWnNmPSXm4w1v-SFs/exec": {
+    "name_of_link": "Smash karts 5 (sleeper pick)",
     "hidden": false,
     "prox": false
   },
