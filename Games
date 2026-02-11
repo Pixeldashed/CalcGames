@@ -39,11 +39,6 @@
     "hidden": false,
     "prox": false
   },
-  "https://fake.bayworld.net/a/q/hvtrs8%2F-dwcidwcigm.aoo%2F?q=its+using+a+proxy+btw&ia=web": {
-    "name_of_link": "Google (uses a proxy, so beware)",
-    "hidden": false,
-    "prox": true
-  },
   "https://forms.gle/hvCfRbhK2nvtQfv56": {
     "name_of_link": "Game Suggestion Form",
     "hidden": false,
