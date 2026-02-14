@@ -19,23 +19,13 @@
     "hidden": false,
     "prox": false
   },
-  "https://webgltest-17af1.firebaseapp.com/": {
-    "name_of_link": "Smash karts 2 (bit bucket)",
-    "hidden": false,
-    "prox": false
-  },
-  "https://ozgames.io/smash-karts.embed": {
-    "name_of_link": "Smash karts 3",
-    "hidden": false,
-    "prox": false
-  },
-  "https://yoplay.io/smash-karts.embed": {
-    "name_of_link": "Smash karts 4",
-    "hidden": false,
-    "prox": false
-  },
   "https://script.google.com/macros/s/AKfycbyE1C_kxeomVoOLjpaXc2uAI7JdNgVhdQdePTZu9Sizwzj_imhaWnNmPSXm4w1v-SFs/exec": {
-    "name_of_link": "Smash karts 5 (sleeper pick)",
+    "name_of_link": "Smash karts 2 (sleeper pick)",
+    "hidden": false,
+    "prox": false
+  },
+  "https://smash-karts.gitlab.io/file/": {
+    "name_of_link": "Smash karts 3 (untested)",
     "hidden": false,
     "prox": false
   },
